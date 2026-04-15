@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673386890547",
+    "project_id": "rescue-mini-project-6ceb6",
+    "storage_bucket": "rescue-mini-project-6ceb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673386890547:android:082cb98bb8e58631fdaa46",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwjm8GuvZxqU56ZQUQNEK8cx_1TbH643M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
